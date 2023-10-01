@@ -1,2 +1,0 @@
-# react-flashcard
-react-flashcard
